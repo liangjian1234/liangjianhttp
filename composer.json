@@ -1,0 +1,22 @@
+{
+  "name": "liangjian1234/liangjianhttp",
+  "description": "just for php curl",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "LjHttp": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "liangjian",
+      "email": "874737136@qq.com"
+    }
+  ],
+  "require": {
+    "php": "^7.4",
+    "guzzlehttp/guzzle": "^6.3.0",
+    "guzzlehttp/psr7": "^1.4.2",
+    "guzzlehttp/promises": "^1.3.1"
+  }
+}
