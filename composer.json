@@ -1,6 +1,7 @@
 {
   "name": "liangjian1234/liangjianhttp",
   "description": "just for php curl",
+  "license": "MIT",
   "type": "library",
   "autoload": {
     "psr-4": {
